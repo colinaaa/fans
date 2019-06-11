@@ -1,4 +1,4 @@
 const Host = "hackday.outsiders.top";
-const NodeHost = `http://${Host}:3001`;
-const GoHost = `http://${Host}:8000`;
+const NodeHost = `https://${Host}`;
+const GoHost = `https://${Host}`;
 export { NodeHost, GoHost };
